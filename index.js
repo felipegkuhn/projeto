@@ -8,5 +8,5 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar2.png")
   else img.setAttribute("src", "./assets/avatar.png")
 
-  // que codigo satanico
+
 }
